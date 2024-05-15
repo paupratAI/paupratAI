@@ -15,7 +15,7 @@ People often describe me as ambitious, competent, and an analytical thinker. I v
 - **Technological Proficiency:** Comfortable with adopting and utilizing new technologies
 - **Leadership:** Strong leadership and group management skills
 - **Athletics:** Extensive experience in coaching and team management
-- **Languages:** English, Catalan, Spanish, French
+- **Languages:** English, Catalan, Spanish
 
 ## Academic Achievements
 
