@@ -1,29 +1,32 @@
-I am currently pursuing a **Degree in Artificial Intelligence** at **Universitat Politècnica de Catalunya (UPC)**. As an avid technology enthusiast, I am particularly passionate about **machine learning** and its transformative potential. I thrive on solving complex problems and continually seek to expand my knowledge and skills in the field of artificial intelligence.
+# Hi, I'm Pau 👋
 
-## About Me
+AI Engineer at **Omnios** (Barcelona), where I build Generative AI systems in production: knowledge assistants, document-processing pipelines and real-time speech tools.
 
-- **Birthdate:** January 19, 2004
-- **Location:** Barcelona, Spain
-- **Email:** pau.prat.moreno@estudiantat.upc.edu
-- **GitHub:** [@paupratAI](https://github.com/paupratAI)
+I hold a **BSc in Artificial Intelligence** from **Universitat Politècnica de Catalunya (UPC BarcelonaTech)**, including an Erasmus+ semester at the **Czech Technical University in Prague**.
 
-People often describe me as ambitious, competent, and an analytical thinker. I value the opportunities I've had to lead and manage groups effectively through my experiences as a basketball coach and tutor. My aim is to leverage my expertise in AI to develop innovative solutions that address real-world challenges.
+## 📂 About this profile
 
-## Skills
+My work at Omnios lives in private company repositories, so this profile is my **academic archive**: the projects I built during my AI degree, covering machine learning, deep learning, NLP, computer vision, reinforcement learning, planning and more.
 
-- **Programming Languages:** Python, R, Prolog, MATLAB, C, PDDL, SQL
-- **Technological Proficiency:** Comfortable with adopting and utilizing new technologies
-- **Leadership:** Strong leadership and group management skills
-- **Athletics:** Extensive experience in coaching and team management
-- **Languages:** English, Catalan, Spanish
+## 🎓 Highlights
 
-## Academic Achievements
+- **Bachelor's thesis:** *Training Neural Networks with Evolution Strategies*, graded **10/10**
+- **BSc in Artificial Intelligence**, UPC (2022–2026) · GPA **8.01/10**
+- **Erasmus+ exchange**, Faculty of Information Technology, CTU Prague (2025–2026)
 
-- **Selectivitat Score:** 12.59
-- **Baccalaureate Average Grade:** 9.05
-- **University Average Grade:** 8.01
+## 🛠️ Tech
 
-I am always eager to connect with professionals and enthusiasts in the tech community. Feel free to reach out via email or connect with me on GitHub!
+- **Languages:** Python, SQL, C, R, MATLAB, Prolog, PDDL
+- **AI & ML:** Deep Learning, NLP, Computer Vision, Reinforcement Learning, LLMs, RAG
+- **Cloud & data:** Microsoft Azure, AWS, Power BI
 
----
-*Pau Prat Moreno*
+## 🏀 Beyond code
+
+I've coached youth basketball since 2020 and founded **Beast Basketball Academy**, an individual-skills academy and summer camp with 60+ players and a team of 10 coaches.
+
+## 📫 Contact
+
+- Email: paupratmoreno.ai@gmail.com
+- LinkedIn: [linkedin.com/in/pau-prat](https://www.linkedin.com/in/pau-prat)
+
+
